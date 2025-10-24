@@ -18,5 +18,13 @@ Proyek ini dibuat untuk:
 - Membuat proyek dokumentasi yang baik (README.md).
 
 ---
+Fitur
 
+Tampilan animasi teks bertahap (simulasi proses).
+
+Pesan-pesan status yang dapat dikustomisasi (mis. "Initializing...", "Authenticating...").
+
+Hex dump palsu yang dihasilkan secara acak untuk efek visual.
+
+Tidak melakukan tindakan nyata: tidak ada akses ke jaringan, sistem file, atau layanan eksternal.
 
