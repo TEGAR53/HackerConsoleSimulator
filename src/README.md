@@ -28,3 +28,4 @@ Hex dump palsu yang dihasilkan secara acak untuk efek visual.
 
 Tidak melakukan tindakan nyata: tidak ada akses ke jaringan, sistem file, atau layanan eksternal.
 
+
